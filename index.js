@@ -70,6 +70,7 @@ function init() {
         }
         svgShape.setColor(responses.backgroundColor);
 
+        //A template .svg file was used and then modified from https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial/Getting_Started .
         let svgData = `
 <svg version="1.1"
 width="${svgWidth}" height="${svgHeight}"
