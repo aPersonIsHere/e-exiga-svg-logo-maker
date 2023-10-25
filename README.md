@@ -5,7 +5,7 @@
 ## Description
         
 The SVG Logo Maker can generate a basic .svg file by using Node.js technology paired with Inquiry and Jest to run this program, with high calibur, to accept user input to create a logo.
-Here is a video overview of the SVG Logo Maker: YOUTUBE LINK HERE
+Here is a video overview of the SVG Logo Maker: [YOUTUBE LINK HERE](https://youtu.be/EDbGJefp_bs)
 
 ## Table of Contents
 - [Installation](#installation)
